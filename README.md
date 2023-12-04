@@ -1,6 +1,6 @@
 Crypto Exchange Script🔗
 
-![1](https://github.com/shellar1522/cryptocurrency-exchange-script/assets/125349687/b4f034d1-8978-44b3-86f0-650fae9d06c4)
+![1](https://github.com/shellar1522/cryptocurrency-exchange-script/blob/main/preview.webp?raw=true)
 
 Contact me: https://t.me/st_code
 Demo Available
