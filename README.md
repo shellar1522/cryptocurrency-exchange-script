@@ -17,7 +17,7 @@ Demo Available
 - Fake P2P
 - Passing verification (KYC)
 - Two-factor authorization (Google Authenticator)
-- Filling in data/setting an avatar
+- Filling in data/setting an avatar.
 
 How deposits are withdrawn:
 - When each user registers, a random mnemonic phrase is generated and all deposit addresses are created from it
