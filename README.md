@@ -1,7 +1,7 @@
 ![111](https://github.com/shellar1522/cryptocurrency-exchange-script/assets/125349687/e55a8b3d-4107-4aae-b8c5-f9a67deb630c)
 
 # CEX Crypto Exchange Script
-Contact me: https://t.me/st_code Demo Available
+# Contact me: https://t.me/st_code Demo Available
 
 # 🔗Main Features:
 - Automatic address generation for each user
@@ -119,8 +119,7 @@ Specific user management (briefly):
 - KYC Request: kyc (data, addresses, photos of documents) sent by the user for KYC verification
 - KYC can be accepted or rejected
 
-Contact me: https://t.me/st_code
-Demo Available
+# Contact me: https://t.me/st_code Demo Available
 
 # 📸Screenshots (Desktop)
 
@@ -132,8 +131,7 @@ Demo Available
 ![7](https://github.com/shellar1522/cryptocurrency-exchange-script/assets/125349687/c4a0221c-a79d-4d7e-8eae-be23ff72078c)
 ![8](https://github.com/shellar1522/cryptocurrency-exchange-script/assets/125349687/7e4bf25d-4e56-4c91-925c-e9738d591026)
 
-Contact me: https://t.me/st_code
-Demo Available
+# Contact me: https://t.me/st_code Demo Available
 
 # Requirements
 Ubuntu Server (minimum version: 18.04)
