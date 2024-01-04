@@ -13,7 +13,7 @@
 - Swap
 - Transfers
 - Fake P2P
-- Passing verification (KYC)
+- Passing verification (KYC).
 - Two-factor authorization (Google Authenticator)
 - Filling in data/setting an avatar.
 
