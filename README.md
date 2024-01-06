@@ -5,7 +5,7 @@
 
 # 🔗Main Features:
 - Automatic address generation for each user
-- Automatic verification of deposits to addresses
+- Automatic verification of deposits to addresses.
 - Fake output: verification/pending/confirmed error (worker customizes for each user).
 - Support
 - Trading (opening orders)
